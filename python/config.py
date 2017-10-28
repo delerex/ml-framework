@@ -1,0 +1,1 @@
+quandl_key = "your quandl key code"
